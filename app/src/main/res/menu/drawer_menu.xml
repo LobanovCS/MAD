@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Главная"
+            android:icon="@android:drawable/ic_menu_view" />
+
+        <item
+            android:id="@+id/nav_register_patrol"
+            android:title="Регистрация наряда"
+            android:icon="@android:drawable/ic_input_add" />
+
+        <item
+            android:id="@+id/nav_map_cases"
+            android:title="Карта дел"
+            android:icon="@android:drawable/ic_menu_mapmode" />
+
+        <item
+            android:id="@+id/nav_active_cases"
+            android:title="Активные дела"
+            android:icon="@android:drawable/ic_menu_agenda" />
+
+        <item
+            android:id="@+id/nav_complete_case"
+            android:title="Завершить дело"
+            android:icon="@android:drawable/ic_menu_edit" />
+
+    </group>
+
+</menu>

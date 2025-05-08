@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Police Patrol</string>
+
+    <!-- Добавляем недостающие строки -->
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+
+    <!-- Строки для пунктов меню -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_register_patrol">Регистрация наряда</string>
+    <string name="nav_map_cases">Карта дел</string>
+    <string name="nav_active_cases">Активные дела</string>
+    <string name="nav_complete_case">Завершенные дела</string>
+    <string name="google_maps_api_key">AIzaSyDjY02GNE_1VIjqq3b9Itn0YMukdR3nTL0</string>
+
+</resources>
